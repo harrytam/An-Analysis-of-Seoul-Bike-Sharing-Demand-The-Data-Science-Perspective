@@ -1,2 +1,1 @@
-# INM430-Principle-of-Data-Science
-INM430 Principle of Data Science
+# An Analysis of Seoul Bike Sharing Demand: The Data Science Perspective
